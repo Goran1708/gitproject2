@@ -8,6 +8,7 @@ class Sent{
 		System.out.println("Hello again");
 		System.out.println("Hello once again");
 		System.out.println("Hello once again!!!");
+		System.out.println(2+2);
 	}
 }
 
